@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.ec3870038ef542e51cfb24a7ea00d5cb.js"
+  "precache-manifest.49a98bcc5631a29ec77092c23b247bca.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bid-labs"});
